@@ -1,3 +1,7 @@
+gradio_queue.db*
+pretrained/*
+icetk_models/*
+!*/.gitkeep
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

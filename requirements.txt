@@ -1,0 +1,10 @@
+git+https://github.com/Sleepychord/Image-Local-Attention@43fee31
+gradio==3.1.0
+icetk==0.0.4
+imageio==2.19.5
+imageio-ffmpeg==0.4.7
+numpy==1.22.4
+opencv-python-headless==4.6.0.66
+SwissArmyTransformer==0.2.9
+torch==1.12.0
+torchvision==0.13.0

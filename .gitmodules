@@ -1,0 +1,3 @@
+[submodule "CogVideo"]
+	path = CogVideo
+	url = https://github.com/THUDM/CogVideo
