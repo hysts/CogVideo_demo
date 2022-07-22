@@ -1170,7 +1170,7 @@ class AppModel(Model):
 
     def run_with_translation(
         self, text: str, translate: bool, seed: int, only_first_stage: bool
-    ) -> tuple[str | None, np.ndarray | None, list[np.ndarray] | None]:
+    ) -> tuple[str | None, str | None, list[np.ndarray] | None]:
         logger.info(f'{text=}, {translate=}, {seed=}, {only_first_stage=}')
         if translate:
             text = translated_text = self.translator(text)
