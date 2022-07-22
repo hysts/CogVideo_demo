@@ -3,6 +3,10 @@ This is an unofficial demo app for [CogVideo](https://github.com/THUDM/CogVideo)
 
 You can try web demo: [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/THUDM/CogVideo) (This version currently supports only the first stage.)
 
+https://user-images.githubusercontent.com/25161192/180413610-63f2b76b-684f-404b-9d13-6c0033987b1f.mp4
+
+https://user-images.githubusercontent.com/25161192/180413654-20ce822f-be7d-40cb-aff3-1712a7505a2c.mp4
+
 It takes about 7 minutes to load models and about 11 minute to generate 1 video.
 
 ## Prerequisite
