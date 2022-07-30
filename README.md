@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/25161192/180413610-63f2b76b-684f-404b-
 
 https://user-images.githubusercontent.com/25161192/180413654-20ce822f-be7d-40cb-aff3-1712a7505a2c.mp4
 
-It takes about 7 minutes to load models on startup and about 11 minute to generate one video.
+It takes about 7 minutes to load models on startup and about 11 minutes to generate one video.
 
 ## Prerequisite
 An A100 instance is required to run CogVideo.
